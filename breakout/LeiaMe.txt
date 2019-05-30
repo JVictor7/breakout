@@ -1,0 +1,8 @@
+Turma: 2
+Aluno: Igor de Souza Domingues
+Aluno: Joseph Almeida Zica
+Aluno: João Victor Oliveira
+Como rodar o programa:
+O arquivo .rar consiste com o proprio projeto compactado, caso não
+seja possivel abrir o projeto, compile o arquivo main.cpp e
+certifique-se de manter todos os arquivos num mesmo diretorio.
